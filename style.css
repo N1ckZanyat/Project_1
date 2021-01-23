@@ -1,0 +1,42 @@
+body {
+    font-family: Comfortaa, Helvetica, sans-serif;
+    background-color: teal;
+}
+
+.headh1 {
+    text-align: center;
+    font-size: 48px;
+    color: white;
+}
+
+.main {
+    text-align: center;
+    font-size: 64px;
+    margin-top: 200px;
+    margin-bottom: 100px;
+    background-color: cadetblue;
+    color: white;
+}
+
+.button {
+    position: relative;
+    left: 50%;
+    transform: translate(-50%, 0);
+    background-color: white;
+    border: none;
+    color: black;
+    padding: 20px 34px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    margin: 4px 2px;
+    cursor: pointer;
+    }
+
+.newlisthead {
+    text-align: center;
+    margin-top: 50px;
+    font-size: 48px;
+    color: white;
+}
